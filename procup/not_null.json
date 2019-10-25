@@ -1,0 +1,112 @@
+[
+  {
+    "types": "Подарок к заказу",
+    "discount": "empty",
+    "logo": "https://cdn.admitad.com/campaign/images/2016/05/05/469afd8f5cfb41bdaadceb3f5a1def8b.png"
+  },
+  {
+    "types": "Подарок к заказу",
+    "discount": "10%",
+    "logo": "https://cdn.admitad.com/campaign/images/2019/1/9/315ccad795fbfabc33634d6b3eaf9f8a.png"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "35%",
+    "logo": "https://cdn.admitad.com/campaign/images/2017/8/16/dd7fe00410eaed9dfc693f270fea7f4f.png"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "10%",
+    "logo": "https://cdn.admitad.com/campaign/images/2014/01/17/885d0ebb429485e182348f0b45c967c9.jpg"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "50%",
+    "logo": "https://cdn.admitad.com/campaign/images/2015/07/13/2b52cc097d6fe14a3871403b106c73ff.jpg"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "50%",
+    "logo": "https://cdn.admitad.com/campaign/images/2017/10/3/fffe92da99b37d46b356b84ea1a6b270.jpg"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "750 R",
+    "logo": "https://cdn.admitad.com/campaign/images/2019/7/24/15909-6992291aba7c4dd1.jpg"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "6%",
+    "logo": "https://cdn.admitad.com/campaign/images/2016/10/12/55734f44af76f3d9203f80797b01ce6e.jpg"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "70%",
+    "logo": "https://cdn.admitad.com/campaign/images/2017/8/31/b6075a0077c2b8d8ba1461fbb45c21c7.png"
+  },
+  {
+    "types": "Бесплатная доставка",
+    "discount": "1%",
+    "logo": "https://cdn.admitad.com/campaign/images/2016/07/05/9fe1ac4d4588aae1416471a99e9ebc21.jpg"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "15%",
+    "logo": "https://cdn.admitad.com/campaign/images/2019/3/18/18395-d4157ba969c23d02.jpg"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "30%",
+    "logo": "https://cdn.admitad.com/campaign/images/2018/1/11/259e459c566ee2329d9ff14763620200.png"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "66 $",
+    "logo": "https://cdn.admitad.com/campaign/images/2016/01/13/2cf320fa4ad27267779b03a5a85ac024.jpg"
+  },
+  {
+    "types": "Подарок к заказу",
+    "discount": "empty",
+    "logo": "https://cdn.admitad.com/campaign/images/2019/7/18/1816-c31a21463a089b8c.jpg"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "10%",
+    "logo": "https://cdn.admitad.com/campaign/images/2017/4/10/443870b344a97bf3fb084e89ebfc2e3f.png"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "5%",
+    "logo": "https://cdn.admitad.com/campaign/images/2016/07/05/9fe1ac4d4588aae1416471a99e9ebc21.jpg"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "5%",
+    "logo": "https://cdn.admitad.com/campaign/images/2017/4/14/b030069e3565fe341fec98614debf076.png"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "10%",
+    "logo": "https://cdn.admitad.com/campaign/images/2018/6/6/91815563098566ac422b87978469f32c.jpg"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "5%",
+    "logo": "https://cdn.admitad.com/campaign/images/2016/05/05/469afd8f5cfb41bdaadceb3f5a1def8b.png"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "70%",
+    "logo": "https://cdn.admitad.com/campaign/images/2012/11/15/ae724f4585a8f74a9ab4110dc5d91c9c.jpg"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "7%",
+    "logo": "https://cdn.admitad.com/campaign/images/2018/6/6/91815563098566ac422b87978469f32c.jpg"
+  },
+  {
+    "types": "Скидка на заказ",
+    "discount": "3%",
+    "logo": "https://cdn.admitad.com/campaign/images/2018/6/6/91815563098566ac422b87978469f32c.jpg"
+  }
+]
